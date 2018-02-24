@@ -12,7 +12,7 @@ needed for scientific computing with Python. This package contains:
 - tools for integrating Fortran code
 - tools for integrating C/C++ code
 
-Besides its obvious scientific uses, *NumPy* can also be used as an
+Its obvious scientific uses, *NumPy* can also be used as an
 efficient multi-dimensional container of generic data. Arbitrary
 data types can be defined. This allows *NumPy* to seamlessly and
 speedily integrate with a wide variety of databases.
